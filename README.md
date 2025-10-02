@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/<TON_USERNAME>/<TON_USERNAME>/blob/main/banner.png" alt="Bannière" width="100%" />
+  <img src="https://github.com/jarebYT/jarebYT/blob/main/banner.png" alt="Bannière" width="100%" />
 </p>
 
 <h1 align="center">Salut, je suis Alexandre 👋</h1>
@@ -33,8 +33,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<TON_USERNAME>&show_icons=true&count_private=true&theme=radical&hide_title=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<TON_USERNAME>&layout=compact&theme=radical&hide_border=true&hide_title=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jarebYT&show_icons=true&count_private=true&theme=radical&hide_title=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarebYT&layout=compact&theme=radical&hide_border=true&hide_title=true" width="48%" />
 </p>
 
 ---
