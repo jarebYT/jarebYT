@@ -38,8 +38,8 @@
 ## 📊 Mes Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<TON_USERNAME>&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<TON_USERNAME>&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jarebYT&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarebYT&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
