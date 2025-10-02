@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://github.com/jarebYT/jarebYT/blob/main/banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/jarebYT/jarebYT/blob/main/banner.png" 
+       alt="Banner" 
+       width="100%" 
+       style="border-radius: 20px;" />
 </p>
 
 <h1 align="center">Hi, I'm Alexandre 👋</h1>
