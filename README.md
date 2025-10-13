@@ -33,9 +33,9 @@
 ---
 
 <h3 align="center">🔥   My Stats</h3>
-<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jarebYT&theme=discord_old_blurple" align="center" /></div>
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jarebYT&theme=github_dark" align="center" /></div>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jarebYT&theme=discord_old_blurple" align="center"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jarebYT&theme=discord_old_blurple&utcOffset=8" align="center"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jarebYT&theme=github_dark" align="center"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jarebYT&theme=github_dark&utcOffset=8" align="center"/>
 </div>
-<div align="center"><img src="https://github-widgetbox.vercel.app/api/profile?username=jarebYT&data=followers,repositories,stars,commits&theme=nautilus" align="center"/></div>
+<div align="center"><img src="https://github-widgetbox.vercel.app/api/profile?username=jarebYT&data=repositories,stars,commits&theme=github_dark" align="center"/></div>
