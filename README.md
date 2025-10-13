@@ -35,15 +35,14 @@
 <h3 align="center">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jarebYT&theme=transparent&background=000000&text_color=FFFFFF&title_color=FFFFFF" align="center" />
+  <!-- Stats principales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jarebYT&show_icons=true&count_private=true&hide_border=true&hide_title=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarebYT&layout=compact&hide_border=true&hide_title=true&bg_color=000000&text_color=ffffff&title_color=ffffff" height="150" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jarebYT&theme=transparent&background=000000&text_color=FFFFFF&title_color=FFFFFF" align="center"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jarebYT&theme=transparent&background=000000&text_color=FFFFFF&title_color=FFFFFF&utcOffset=8" align="center"/>
+  <!-- Graphique d’activité -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarebYT&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%" />
 </div>
 
-<div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=jarebYT&data=repositories,stars,commits&theme=transparent&background=000000&color=FFFFFF&title=FFFFFF&text=FFFFFF&icons=FFFFFF" align="center"/>
-</div>
 
