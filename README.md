@@ -32,10 +32,14 @@
 
 ---
 
-<h3 align="center">🔥   My Stats</h3>
-<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jarebYT&theme=github_dark" align="center" /></div>
+<h3 align="center">🔥 My Stats</h3>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jarebYT&theme=github_dark" align="center"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jarebYT&theme=github_dark&utcOffset=8" align="center"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jarebYT&theme=transparent&bg_color=000000&title_color=ffffff&text_color=ffffff" align="center" />
 </div>
-<div align="center"><img src="https://github-widgetbox.vercel.app/api/profile?username=jarebYT&data=repositories,stars,commits&theme=github_dark" align="center"/></div>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jarebYT&theme=transparent&bg_color=000000&title_color=ffffff&text_color=ffffff" align="center"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jarebYT&theme=transparent&bg_color=000000&title_color=ffffff&text_color=ffffff&utcOffset=8" align="center"/>
+</div>
+<div align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=jarebYT&data=repositories,stars,commits&theme=transparent&background=000000&title=ffffff&text=ffffff&icons=ffffff" align="center"/>
+</div>
