@@ -32,15 +32,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jarebYT&show_icons=true&count_private=true&hide_border=true&hide_title=true&card_width=420&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarebYT&layout=compact&hide_border=true&hide_title=true&card_width=420&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  Made with ❤️ by Alexandre | <a href="https://www.linkedin.com/in/alexandre-vanneuville/">LinkedIn</a>
-</p>
+<h3 align="center">🔥   My Stats</h3>
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jarebYT&theme=discord_old_blurple" align="center" /></div>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jarebYT&theme=discord_old_blurple" align="center"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jarebYT&theme=discord_old_blurple&utcOffset=8" align="center"/>
+</div>
+<div align="center"><img src="https://github-widgetbox.vercel.app/api/profile?username=jarebYT&data=followers,repositories,stars,commits&theme=nautilus" align="center"/></div>
