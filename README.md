@@ -41,14 +41,11 @@
   <img src="https://img.shields.io/badge/Express.js-141321?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-141321?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-141321?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-141321?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-141321?style=for-the-badge&logo=laravel&logoColor=white" />
 
   <!-- Bases de données -->
   <img src="https://img.shields.io/badge/MySQL-141321?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-141321?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-141321?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-141321?style=for-the-badge&logo=firebase&logoColor=white" />
 
   <!-- DevOps / Outils -->
   <img src="https://img.shields.io/badge/Docker-141321?style=for-the-badge&logo=docker&logoColor=white" />
@@ -61,9 +58,7 @@
   <!-- Cloud & Autres -->
   <img src="https://img.shields.io/badge/AWS-141321?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-141321?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-141321?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-141321?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-141321?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache-141321?style=for-the-badge&logo=apache&logoColor=white" />
 
 </p>
