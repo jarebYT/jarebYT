@@ -21,13 +21,51 @@
 ### ⚡ Technologies
 
 <p align="center">
+
+  <!-- Langages -->
+  <img src="https://img.shields.io/badge/C-141321?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-141321?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-141321?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-141321?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-141321?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-141321?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-141321?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-141321?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-141321?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-141321?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-141321?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-141321?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-141321?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <!-- Frameworks & Libraries -->
   <img src="https://img.shields.io/badge/React-141321?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-141321?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-141321?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-141321?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-141321?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-141321?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-141321?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-141321?style=for-the-badge&logo=laravel&logoColor=white" />
+
+  <!-- Bases de données -->
+  <img src="https://img.shields.io/badge/MySQL-141321?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-141321?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-141321?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-141321?style=for-the-badge&logo=firebase&logoColor=white" />
+
+  <!-- DevOps / Outils -->
+  <img src="https://img.shields.io/badge/Docker-141321?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-141321?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-141321?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-141321?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-141321?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-141321?style=for-the-badge&logo=postman&logoColor=white" />
+
+  <!-- Cloud & Autres -->
+  <img src="https://img.shields.io/badge/AWS-141321?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-141321?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-141321?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-141321?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-141321?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-141321?style=for-the-badge&logo=apache&logoColor=white" />
+
 </p>
 
 ---
