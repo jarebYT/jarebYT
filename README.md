@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/alexandre-vanneuville/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://jarebyt.github.io/Portfolio/" target="_blank">
+    <img alt="Portfolio" />
+  </a>
   <a href="mailto:alexandre.vnvl@gmail.com">
     <img src="https://img.shields.io/badge/Email-141321?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
