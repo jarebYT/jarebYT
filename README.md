@@ -72,13 +72,13 @@
 
 <div align="center">
   <!-- Stats principales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jarebYT&show_icons=true&count_private=true&hide_border=true&hide_title=true&bg_color=14181e&text_color=ffffff&icon_color=ffffff&title_color=ffffff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarebYT&layout=compact&hide_border=true&hide_title=true&bg_color=14181e&text_color=ffffff&title_color=ffffff" height="150" />
+  <img src="https://stats-delta-gilt.vercel.app/api?username=jarebYT&show_icons=true&count_private=true&hide_border=true&hide_title=true&bg_color=14181e&text_color=ffffff&icon_color=ffffff&title_color=ffffff" height="150" />
+  <img src="https://stats-delta-gilt.vercel.app/api/top-langs/?username=jarebYT&layout=compact&hide_border=true&hide_title=true&bg_color=14181e&text_color=ffffff&title_color=ffffff" height="150" />
 </div>
 
 <div align="center">
   <!-- Graphique d’activité -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarebYT&bg_color=14181e&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%" />
+  <img src="https://stats-delta-gilt.vercel.app/graph?username=jarebYT&bg_color=14181e&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%" />
 </div>
 
 
