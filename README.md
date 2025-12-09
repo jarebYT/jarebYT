@@ -78,7 +78,7 @@
 
 <div align="center">
   <!-- Graphique d’activité -->
-  <img src="https://github-readme-stats-nu-sandy-91.vercel.app/graph?username=jarebYT&bg_color=14181e&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarebYT&bg_color=14181e&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%" />
 </div>
 
 
